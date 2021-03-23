@@ -1,1 +1,5 @@
-This is created for git branching example
+This is created for git branching example.
+
+
+Now this is also used for git mergin
+
